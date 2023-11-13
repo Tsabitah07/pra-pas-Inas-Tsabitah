@@ -17,7 +17,8 @@ return new class extends Migration
             $table->string('category');
             $table->string('brand');
             $table->integer('price');
-            $table->date('productionDate'); 
+            $table->date('productionDate');
+            $table->string('image');
             $table->timestamps();
         });
     }

@@ -2,7 +2,7 @@
 
 @section('container')
 
-  <h1 class="m-5">Ini Data Product</h1>
+  <h1 class="m-5">Ini Data Makanan</h1>
 
   <div class="m-5">
     <table class="table">

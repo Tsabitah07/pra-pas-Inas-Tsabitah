@@ -7,6 +7,7 @@
         <div class="card p-3 border-3">
             <div class="card-body text-center">
                 <h3 class="card-title">Detail Makanan</h3>
+                <img src="{{$foods->image}}" alt="Foto Makanan" class="m-2" style="width: 200px">
                 <h5>Brand : {{$foods->brand}}</h5>
                 <h5>Nama Makanan : {{$foods->foodName}}</h5>
                 <h5>Type : {{$foods->type}}</h5>

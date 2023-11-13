@@ -18,6 +18,7 @@ return new class extends Migration
             $table->string('type');
             $table->integer('price');
             $table->date('expiredDate');
+            $table->string('image');
             $table->timestamps();
         });
     }
