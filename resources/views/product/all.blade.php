@@ -9,9 +9,9 @@
       <thead>
         <tr>
           <th scope="col">No</th>
-          <th scope="col">Nama Product</th>
-          <th scope="col">Kategori</th>
-          <th scope="col">Harga</th>
+          <th scope="col">Product Name</th>
+          <th scope="col">Category</th>
+          <th scope="col">Price</th>
           <th scope="col">Action</th>
         </tr>
       </thead>

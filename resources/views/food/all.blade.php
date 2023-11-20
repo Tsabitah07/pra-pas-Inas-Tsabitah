@@ -9,9 +9,9 @@
       <thead>
         <tr>
           <th scope="col">No</th>
-          <th scope="col">Nama Makanan</th>
-          <th scope="col">Tipe</th>
-          <th scope="col">Harga</th>
+          <th scope="col">Food Name</th>
+          <th scope="col">Type</th>
+          <th scope="col">Price</th>
           <th scope="col">Action</th>
         </tr>
       </thead>
