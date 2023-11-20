@@ -3,6 +3,7 @@
 use App\Http\Controllers\AboutController;
 use App\Http\Controllers\FoodController;
 use App\Http\Controllers\ProductController;
+use App\Http\Controllers\TransactionController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -33,3 +34,6 @@ Route::get('/product/detail/{product}', [ProductController::class, 'show']);
 
 Route::get("/food/all", [FoodController::class, 'index']);   
 Route::get('/food/detail/{food}', [FoodController::class, 'show']); 
+
+Route::get("/transaction/all", [TransactionController::class, 'index']);   
+Route::get('/transaction/detail/{transaction}', [TransactionController::class, 'show']);

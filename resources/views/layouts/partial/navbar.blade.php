@@ -14,17 +14,9 @@
                 <li class="nav-item me-1">
                     <a class="nav-link" href="/food/all">Food</a>
                 </li>
-                {{-- <li class="nav-item dropdown me-1">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                      Transaction Data
-                    </a>
-                    <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="#">-</a></li>
-                      <li><a class="dropdown-item" href="#">-</a></li>
-                      <li><hr class="dropdown-divider"></li>
-                      <li><a class="dropdown-item" href="#">-</a></li>
-                    </ul>
-                  </li> --}}
+                <li class="nav-item me-1">
+                    <a class="nav-link" href="/transaction/all">Transaction</a>
+                </li>
             </ul>
         </div>
     </div>
